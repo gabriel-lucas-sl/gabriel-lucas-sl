@@ -10,8 +10,6 @@ Java, Angular, API REST, Spring Boot, Spring MVC, Spring Data, Nodejs, JPA, Orac
 
 Empathetic; High learning capacity (studying with spaced revisions); Determined; Proactive; Great ease to plan;
 
-(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcb1919d-2bf3-428e-b235-49eac36ca605/5e0cc44666c0d0d8f342df98ca8a088b.gif)
-
 <!--
 **gabriel-lucas-sl/gabriel-lucas-sl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
