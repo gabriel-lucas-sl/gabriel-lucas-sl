@@ -4,6 +4,12 @@ Future IOS Software Engineer
 
 Java and Angular developer with four years of experience in the development area, familiarized with software engineering since high school - place where I had the chance to develop my first system for a police department.
 
+### Tech and Soft Skills
+
+Java, Angular, API REST, Spring Boot, Spring MVC, Spring Data, Nodejs, JPA, Oracle SQL, jUnit, Wildfly, Forge, HTML, CSS, JavaScript, JSP, JSTL, JDBC, Apache TomCat, Bootstrap, IBM Watson Assistant, Jasmine, MVC and Microservices Architecture.
+---
+Empathetic; High learning capacity (studying with spaced revisions); Determined; Proactive; Great ease to plan;
+
 <!--
 **gabriel-lucas-sl/gabriel-lucas-sl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
