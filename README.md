@@ -1,4 +1,6 @@
-### Hi there 👋
+# Gabriel Lucas ✨
+
+Java and Angular developer with four years of experience in the development area, familiarized with software engineering since high school - place where I had the chance to develop my first system for a police department.
 
 <!--
 **gabriel-lucas-sl/gabriel-lucas-sl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
