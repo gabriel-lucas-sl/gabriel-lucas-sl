@@ -8,8 +8,6 @@ Java and Angular developer with four years of experience in the development area
 
 Java, Angular, API REST, Spring Boot, Spring MVC, Spring Data, Nodejs, JPA, Oracle SQL, jUnit, Wildfly, Forge, HTML, CSS, JavaScript, JSP, JSTL, JDBC, Apache TomCat, Bootstrap, IBM Watson Assistant, Jasmine, MVC and Microservices Architecture.
 
----
-
 Empathetic; High learning capacity (studying with spaced revisions); Determined; Proactive; Great ease to plan;
 
 <!--
