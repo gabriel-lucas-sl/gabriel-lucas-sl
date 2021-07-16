@@ -7,7 +7,7 @@ Java and Angular developer with four years of experience in the development area
 ### Tech and Soft Skills
 
 #### Mobile
-Swift, Xcode, Storyboard, AutoLayout and Responsive UIs and MVC Pattern
+Swift, Xcode, Storyboard, AutoLayout and Responsive UIs, Integração com API Rest, MVC, Delegate and MVVM Pattern
 
 #### Web 
 Java, Angular, API REST, Spring Boot, Spring MVC, Spring Data, Nodejs, JPA, Oracle SQL, jUnit, Wildfly, Forge, HTML, CSS, JavaScript, JSP, JSTL, JDBC, Apache TomCat, Bootstrap, IBM Watson Assistant, Jasmine, MVC and Microservices Architecture.
