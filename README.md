@@ -10,7 +10,7 @@ Java and Angular developer with four years of experience in the development area
 Swift, Xcode, Storyboard, Xib, AutoLayout and Responsive UIs, Integração com API Rest, APIs Integrations, Cocoapods, Swift Package Manager, Firebase Authentication, Firebase Database, ViewControllers Lifecycle, App Lifecycle methods, MVC and Delegate Pattern
 
 #### Web 
-Java, Angular, API REST, Spring Boot, Spring MVC, Spring Data, Nodejs, JPA, Oracle SQL, jUnit, Wildfly, Forge, HTML, CSS, JavaScript, JSP, JSTL, JDBC, Apache TomCat, Bootstrap, IBM Watson Assistant, Jasmine, MVC and Microservices Architecture.
+HTML, CSS, JavaScript, Angular, Node.js, Jest, Jasmine, Karma, MVC and Microservices Architecture, API REST, Spring Boot, Spring MVC, Spring Data, Oracle SQL, MySQL, PostgreSQL, JSP, JSTL, JDBC, TomCat, IBM Watson Assistant, jUnit, Mockito
 
 Empathetic; High learning capacity (studying with spaced revisions); Determined; Proactive; Great ease to plan;
 
