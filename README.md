@@ -5,7 +5,7 @@ Java and Angular developer with four years of experience in the development area
 ### Tech and Soft Skills
 
 #### Mobile
-Swift, Xcode, Storyboard, Xib, AutoLayout and Responsive UIs, Integração com API Rest, APIs Integrations, Cocoapods, Swift Package Manager, Firebase Authentication, Firebase Database, ViewControllers Lifecycle, App Lifecycle methods, MVC and Delegate Pattern
+Swift, Xcode, Storyboard, Xib, AutoLayout and Responsive UIs, APIs Integrations, Cocoapods, Swift Package Manager, Firebase Authentication, Firebase Database, ViewControllers Lifecycle, App Lifecycle methods, MVC and Delegate Pattern
 
 #### Web 
 HTML, CSS, JavaScript, Angular, Node.js, Jest, Jasmine, Karma, MVC and Microservices Architecture, API REST, Spring Boot, Spring MVC, Spring Data, Oracle SQL, MySQL, PostgreSQL, JSP, JSTL, JDBC, TomCat, IBM Watson Assistant, jUnit, Mockito
