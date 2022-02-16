@@ -1,5 +1,11 @@
 # Hey there! It's Gab here ✨
 
+Hey, 
+
+I'm Gabriel Lucas, but feel free to call me Gabe =)
+I'm an IOS Engineer with a Java and NodeJS development background. 
+
+
 <div align="center">
   <a href="https://github.com/gabriel-lucas-sl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-lucas-sl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
