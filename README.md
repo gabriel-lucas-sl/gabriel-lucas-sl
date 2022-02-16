@@ -1,4 +1,4 @@
-# Hey there! It's Gab here ✨
+# Hey there! It's Gabe here ✨
 
 Hey, 
 
