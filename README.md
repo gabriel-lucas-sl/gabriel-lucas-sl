@@ -4,7 +4,7 @@ Hey,
 
 I'm Gabriel Lucas, but feel free to call me Gabe =)
 <br>
-I'm an IOS Engineer with a Java and NodeJS development background. 
+I'm an aspirant IOS Engineer with a Java and NodeJS development background. 
 
 
 <div align="center">
